@@ -17,10 +17,22 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
+
+## 可能会遇到些问题
+
 支持less
+
+```bash
 npm install --save less less-loader
+如果error ，估计版本问题
 npm uninstall less-loader
 npm install less-loader@4.1.0 --save
+```
+
+
+
+## 设计稿
 
 https://modao.cc/app/6da335b263aeee9f7ec0d307ecd1203c1989eb64 《原型演示文稿》 访问密码：1234
 
