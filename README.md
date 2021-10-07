@@ -27,13 +27,13 @@ https://modao.cc/app/6da335b263aeee9f7ec0d307ecd1203c1989eb64 《原型演示文
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-![](https://github.com/phuhao00/gamemanager/tree/master/src/assets/img_1.png)
+![https://github.com/phuhao00/gamemanager/tree/master/src/assets/img_1.png]()
 
 
 
 
 
-![](https://github.com/phuhao00/gamemanager/tree/master/src/assets/img.png)
+![](src/assets/img.png)
 
 
 
